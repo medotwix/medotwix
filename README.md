@@ -2,9 +2,12 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-medotwix/medotwix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- its a key Generator using python For the purpose of education and entertainment
+ installation : 
+ pkg update 
+ pkg install python 
+ git clone https://github.com/medotwix/medotwix
+ cd medotwix
+ python Medo7x.py
+   ,..--->
